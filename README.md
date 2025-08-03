@@ -9,5 +9,5 @@ This project uses **OpenCV** and **cvzone** to zoom in/out on an image using a *
 ## Requirements
 
 Install dependencies:
-pip install cvzone
-pip install mediapipe
+- pip install cvzone
+- pip install mediapipe
